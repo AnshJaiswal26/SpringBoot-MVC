@@ -1,0 +1,77 @@
+.mainSection{
+    margin: 10px 460px;
+    margin-top: 5%;
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+    color: rgb(3, 48, 88);
+    font-weight: bold;
+ }
+
+ *{
+    text-align: center;
+ }
+ #tableSection1{
+   margin-left: 50px;
+ }
+ #tableSection2{
+   margin-left: 40px;
+ }
+ #email{
+    padding: 5px;
+    padding-right: 20px;
+    text-align: left;
+ }
+ #pass{
+   padding: 5px;
+   padding-right: 20px;
+   text-align: left;
+ }
+ #person{
+   padding: 5px;
+   padding-right: 20px;
+   text-align: left;
+ }
+ #phone{
+   padding: 5px;
+   padding-right: 20px;
+   text-align: left;
+ }
+ .section{
+   padding-left: 40px;
+ }
+ #button{
+    background-color: rgba(13, 135, 95, 0.843);
+    font-weight: bold;
+    border: white;
+    size: 30px;
+    color: white;
+     padding: 9px 110px;
+ }
+ #reg{
+    font-size: 13px;
+    padding-bottom: 12px;
+    text-decoration: none;
+    color: rgba(13, 135, 95, 0.843);
+    font-weight: 100;
+ }
+ #account{
+    margin-left: 16px;
+    padding-bottom: 12px;
+    font-size: 13px;
+    color: black;  
+    font-weight: 100;
+ }
+ .body{
+    background-color: rgba(31, 166, 121, 0.796);
+ }
+ #heading1{
+   background-color: rgba(13, 135, 95, 0.843);
+   color: aliceblue;
+   padding: 16px;
+ }
+ #row1{
+   margin-top: 10px;
+ }
+ #row2{
+
+ }
